@@ -1,4 +1,4 @@
-# Airbnb Price Prediction 🏠
+# Airbnb Price Prediction 
 
 Prédiction du prix des logements Airbnb à partir de données réelles (22 234 annonces, 6 villes américaines).
 
@@ -40,4 +40,4 @@ Source : `airbnb_train.csv` et `airbnb_test.csv` fournis dans le cadre du cours 
 
 ## Auteurs
 
-Akihito Raffin & Henri Portier — ESILV, Spécialisation Data & IA
+Akihito Raffin & Henri Portier — ESILV
